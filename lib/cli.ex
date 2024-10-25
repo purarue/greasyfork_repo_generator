@@ -6,7 +6,7 @@ defmodule GreasyforkRepoGenerator.CLI do
     Optimus.new!(
       name: "greasyfork_repo_generator",
       description: "Archives a users Greasyfork account and creates a git repo",
-      author: "Sean Breckenridge github.com/seanbreckenridge",
+      author: "purarue github.com/purarue",
       version: "0.1.0",
       allow_unknown_args: false,
       parse_double_dash: true,
